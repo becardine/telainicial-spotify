@@ -12,3 +12,7 @@
 
 #### Dispositivos menores barra de menu fica oculta 
 ![](/imagens/screenshot4.png)
+
+
+
+- LinkedIn - [becardine](https://www.linkedin.com/in/becardine)
